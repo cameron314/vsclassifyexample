@@ -1,0 +1,9 @@
+*.ipch
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.exe
+*.dll
+bin/
+obj/
